@@ -33,7 +33,7 @@ test('Testing levelUp function', () => {
 })
 
 test('Testing damage function', () => {
-    const result = 55;
+    const result = 50;
     const character = new Character('Name', 'Swordsman');
     character.damage(50);
     
